@@ -7,10 +7,10 @@ int main( int arg,char const*argv[])
 }
     void encabezado(void)
 {
-    printf(**********************);
-    printf("*iniversidad pontificia bolivariana*");
-    printf("*escuela ingeriera*");
-    printf("*walter miguel cuello*");
-    printf("*000563762");
-    printf("********************");
+    printf(**********************\n");
+    printf("*iniversidad pontificia bolivariana*\n");
+    printf("*escuela ingeriera*\n");
+    printf("*walter miguel cuello*\n");
+    printf("*000563762*\n");
+    printf("********************\n");
 }
