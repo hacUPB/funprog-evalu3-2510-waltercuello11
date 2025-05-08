@@ -1,0 +1,2 @@
+La ley comienza por ingresar una funcion void independiente de todo para crear un menu de seleccion para el usuario.Se define las opciones que se le daran al usuariose crean funciones void para que el programa las evite hasta que se sean llamadas.El menu tambien es una funcion en si 
+dentro de cada funcion se define tanto sus restricciones como sus calculos el uso de la libreria math.h es necesario para el correcto funcionamiento de las funciones 
