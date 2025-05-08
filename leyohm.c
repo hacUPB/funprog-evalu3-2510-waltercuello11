@@ -10,7 +10,7 @@ void ley_de_ohm() {
         corriente = voltaje / resistencia;
         printf ("Corriente: %f\n", corriente );
     } else {
-        printf("La resistencia no puede ser cero crack. \n");
+        printf("La resistencia no puede ser cero  \n");
      }
     }
 
@@ -24,7 +24,7 @@ void ley_de_ohm() {
             factor = potencia_activa / potencia_aparente;
             printf("Factor potencia : %.2f\n", factor);
         } else{
-            printf("Error: La potencia no puede ser cero pa. \n"); 
+            printf("Error: La potencia no puede ser cero  \n"); 
         }
     }
 
@@ -56,7 +56,7 @@ void ley_de_ohm() {
             resistencia = (voltaje_fuente - voltaje_led) / corriente;
             printf("Resistencia recomendada: %.2f Ohm\n", resistencia);
         } else {
-            printf("Error: La corriente no puede ser cero pa.\n");
+            printf("Error: La corriente no puede ser cero \n");
         }
     }
 

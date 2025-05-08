@@ -1,2 +1,2 @@
-Cambios al código,El código original poseía mas que todo errores de sintaxis, lo que iba adentro del while no estaba adentro de este sino después entres sus llaves, me falto usar 2 else if,
+.Cambios al código,El código original poseía mas que todo errores de sintaxis, lo que iba adentro del while no estaba adentro de este sino después entres sus llaves, me falto usar 2 else if,
 Entonces lo que hice fue corregir esos pedazos el código cambio mas que todo en cuanto a las variables que etsaban mal declaradas por que las declare después de la operación y no antes, le agregue innecesariamente una letra a la variable en cuanto a puntos y comas estaba bien después de cada linea,
